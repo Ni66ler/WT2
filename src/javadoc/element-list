@@ -1,0 +1,11 @@
+unnamed package
+by.bsuir.dao
+by.bsuir.dao.impl
+by.bsuir.entity
+by.bsuir.entity.criteria
+by.bsuir.factory
+by.bsuir.factory.impl
+by.bsuir.service
+by.bsuir.service.impl
+by.bsuir.service.validation
+by.bsuir.util

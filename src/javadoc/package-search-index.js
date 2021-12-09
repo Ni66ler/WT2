@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"by.bsuir.dao"},{"l":"by.bsuir.dao.impl"},{"l":"by.bsuir.entity"},{"l":"by.bsuir.entity.criteria"},{"l":"by.bsuir.factory"},{"l":"by.bsuir.factory.impl"},{"l":"by.bsuir.service"},{"l":"by.bsuir.service.impl"},{"l":"by.bsuir.service.validation"},{"l":"by.bsuir.util"}]
